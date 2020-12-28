@@ -6,30 +6,30 @@ const navBar = {
 // Main Body SECTION
 const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
-  firstName: "Program",
-  middleName: "",
-  lastName: "Warehouse",
+  firstName: "Dhiraj",
+  middleName: "Kumar",
+  lastName: "Jaiswal",
   message: " message . ",
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/program-warehouse",
+      url: "https://github.com/Dhetik",
     },
     {
       image: "fa-facebook",
-      url: "https://www.facebook.com/programwarehouse",
+      url: "https://www.facebook.com/Dheeraj83721/",
     },
     {
       image: "fa-instagram",
-      url: "https://www.instagram.com/programwarehouse/",
+      url: "https://www.instagram.com/_dheeraj_7/?fbclid=IwAR2oLUspQIiE-Om3ts5AObSWmOc2kc2YrYfTJjx67SZIToCC8TSWz89c_xc",
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/company/program-warehouse/",
+      url: "https://www.linkedin.com/in/dhiraj-kumar-jaiswal-a260a1183/",
     },
     {
       image: "fa-twitter",
-      url: "https://www.twitter.com/ProgramWH/",
+      url: "https://twitter.com/Dheeraj83721",
     },
   ],
 };
