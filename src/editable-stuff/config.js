@@ -40,7 +40,7 @@ const about = {
   imageLink: require("../editable-stuff/person.png"),
   imageSize: 375,
   message:
-    "My name is Program Warehouse. I’m a Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut ",
+    "My name is Dhiraj Kumar Jaiswal. I’m a Enthusiastic and well organized with leadership qualities who is eager to learn new   things and implement them to overcome real world challenges.",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
