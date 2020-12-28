@@ -86,20 +86,21 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Skill 1", value: 90 },
-    { name: "Skill 2", value: 75 },
-    { name: "Skill 3", value: 85 },
-    { name: "Skill 4", value: 65 },
-    { name: "Skill 5", value: 90 },
-    { name: "Skill 6", value: 65 },
+    { name: "Java", value: 85 },
+    { name: "Microsoft Power Apps", value: 88 },
+    { name: "Spring", value: 65 },
+    { name: "Html & Css", value: 75 },
+    { name: "JavaScript", value: 75 },
+    { name: "C++", value: 70 },
   ],
+
   softSkills: [
-    { name: "softSkills 1", value: 80 },
-    { name: "softSkills 2", value: 90 },
-    { name: "softSkills 3", value: 75 },
-    { name: "softSkills 4", value: 85 },
-    { name: "softSkills 5", value: 75 },
-    { name: "softSkills 6", value: 90 },
+    { name: "Leadership", value: 88 },
+    { name: "Time Management", value: 85 },
+    { name: "Communication ", value: 85 },
+    { name: "Presentation Skills", value: 80 },
+    // { name: "softSkills 5", value: 75 },
+    // { name: "softSkills 6", value: 90 },
   ],
 };
 
